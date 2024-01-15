@@ -46,4 +46,4 @@ Visualizations that can be included:
 6. Conclusions
 7. Create a Blog Post
 
-Completed solution by @tylershienlim
+Completed solution by `@tylershienlim`
