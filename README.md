@@ -46,4 +46,24 @@ Visualizations that can be included:
 6. Conclusions
 7. Create a Blog Post
 
+## Conclusion
+1. Has life expectancy increased over time in the six nations?
+- Yes, all six nations have increased life expectancy over time
+- Zimbabwe Country has the greatest life expectancy increase in the dataset
+
+2. What is the distribution of that life expectancy?
+- Skewed left
+
+3. What is the average life expectancy in these nations?
+- Zimbabwe has the lowest average life expectancy of 50
+- The remaining 5 countries has a similar average life expectancy around 75+
+
+4. Has GDP increased over time in the six nations?
+- Yes, GDP has increased in six nations over time
+- China has the greatest GDP increase in the dataset
+
+5. Is there a correlation between GDP and life expectancy of a country?
+- Yes
+- Positive correlation in all six nations
+
 Completed solution by `@tylershienlim`
